@@ -14,7 +14,7 @@ To enhance your work further, consider the following tip and best practice:
 
 Carefully read the assignment requirements to ensure ethical/unethical data practices are addressed in each query.
 
-#### Assignment Instructions:
+### Assignment Instructions:
 E-Commerce dataset: Ethical Data Usage in Consumer Behavior Analytics
 
  (A) Assignment Overview:
