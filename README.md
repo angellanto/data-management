@@ -1,7 +1,7 @@
-# Data Management | Individual Assignment
+# Ethical Data Usage in Consumer Behavior Analytics
 ## Dataset Source: https://archive.ics.uci.edu/dataset/352/online+retail
 ## Youtube Explainer Video: https://youtu.be/Z45F-Q-WqoQ
-### Grade: 77/100 
+### Data Management | Individual Assignment Grade: 77/100 
 ### Professor Comment: 
 Your ERD was well-structured, with appropriate tables and clear visualisations, complemented by optimised and well-executed SQL queries. You provided a thorough analysis of both ethical and unethical data use, incorporating real-world examples. Moreover, the attached video was particularly insightful, showcasing your in-depth understanding of SQL.
 
